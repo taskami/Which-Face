@@ -12,45 +12,45 @@ description = `
 characters = [
   //default face
   `
- LLLL 
-LLLLLL
-L1LL1L
-LLLLLL
-L1111L
-LLLLLL		
+ yyyy 
+yyyyyy
+y1yy1y
+yyyyyy
+y1111y
+yyyyyy		
 	`,
-  //face left
+  //face yeft
   `
- LLLL 
-LLLLL 
-L1LLL 
-11LLL 
-LLLLL
+ yyyy 
+yyyyy 
+y1yyy 
+11yyy 
+yyyyy
 	`,
   //face right
   `
- LLLL 
- LLLLL
- LLL1L
- LLLLL
- LLL11
- LLLLL
+ yyyy 
+ yyyyy
+ yyy1y
+ yyyyy
+ yyy11
+ yyyyy
 	`,
   //face down
   `
       
       
- LLLL 
-LLLLLL
-L1LL1L
+ yyyy 
+yyyyyy
+y1yy1y
 	`,
   //face up
   `
-L1LL1L
-LLLLLL
-L1111L
-LLLLLL
- LLLL 
+y1yy1y
+yyyyyy
+y1111y
+yyyyyy
+ yyyy 
       
 	`,
 ];
